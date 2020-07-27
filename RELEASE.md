@@ -1,5 +1,9 @@
 # Release history
 
+## Next release (1.4.0)
+- Change maxstep default value to unlimited
+- Clean output tests folder before testing again
+
 ## v1.3.3
 - Add an exception to handle the case when no scope matrix is produced
 - Add a test with an input that produces no scope matrix
